@@ -1,0 +1,40 @@
+body{
+  background-color: teal;
+}
+p{
+  color: white;
+}
+table{
+  color: red;
+  background-color: black;
+  border-style: solid;
+  border-color: red;
+  border-width: 10px;
+}
+h1 {
+  background-color: purple;
+  border-style: inset;
+  border-width: 10px;
+  border-color: yellow;
+}
+p:hover{
+  color: brown;
+
+}
+
+ul:hover{
+  color: red;
+  background-color: purple;
+  border-style: dotted;
+  border-color: yellow;
+  border-width: 5px;
+}
+.circular{
+  border-radius: 100%
+}
+img:hover{
+  background-color: black;
+}
+.overisyellow hover: {
+  background-color: yellow;
+}
